@@ -91,7 +91,7 @@ SDs started collaborating and experimenting with new ways of working. They took 
 
 *Sprint*= one week(small projects)/ few weeks(bigger projects).  
 
-*Products backlog*(the whole plan) -> Sprint Planning(How you are going to attack the backlog and divide it+ decide on sprint length) ->Sprint Backlog(small chunks of the backlog divided either daily or weekly) ->Daily tasks (Daily Scrum) = Assigned to 1 SCRUM team-> Sprint Revies (at the end of the Sprint where you see where the team is and where is the project, done or not?) -> 2 pathways: Increment (If you go into a new version of the software) or Sprint Retrospective (where you decide if you worked well or not, what went well and what didn`t, why things haven`t been finished and how we assign it to finish it on time, etc.) (then you go back to Sprint Planning). 
+*Products backlog*(the whole plan) -> Sprint Planning(How you are going to attack the backlog and divide it+ decide on sprint length) ->Sprint Backlog(small chunks of the backlog divided either daily or weekly) ->Daily tasks (Daily Scrum) = Assigned to 1 SCRUM team-> Sprint Reviews (at the end of the Sprint where you see where the team is and where is the project, done or not?) -> 2 pathways: Increment (If you go into a new version of the software) or Sprint Retrospective (where you decide if you worked well or not, what went well and what did not, why things haven`t been finished and how we assign it to finish it on time, etc.) (then you go back to Sprint Planning). 
 
 *Artifacts*  (ways of showcasing where we are in the project) 
 
@@ -123,7 +123,7 @@ SDs started collaborating and experimenting with new ways of working. They took 
 
  *The **SCRUM** Team:*  
 
-1. Co-located (working together rather than separated)(can`t work from different departments, can`t work from far, but need to be in same space at all times to enable effective communication. E.g.: using teams to maintain people from different departments interconnected). 
+1. Co-located (working together rather than separated)(can not work from different departments, can`t work from far, but need to be in same space at all times to enable effective communication. E.g.: using teams to maintain people from different departments interconnected). 
 
 2. Engaged with customers.  
 
