@@ -43,7 +43,7 @@ SDs started collaborating and experimenting with new ways of working. They took 
 
 **Individuals & interactions** over processes and tools - It`s more valuable to communicate and discuss with each other and customers, and build strong collaborations, rather than worrying about how we implement or do something.  
 
-**Working software** over comprehensive documentation – It`s more valuable to have software that works 100% of the time and it`s easy to use, rather than having a huge manual that teaches you how to use a software that barely works and is hard to use. 
+**Working software** over comprehensive documentation – It`s more valuable to have software that works 100% of the time and it is easy to use, rather than having a huge manual that teaches you how to use a software that barely works and is hard to use. 
 
 **Customer collaboration** over contract negotiation – It`s more valuable to take on bord changes and be flexible with adding or removing things from a project, rather than setting in stone what needs to be done in the moment and setting restrictions and set yourself up for failure.  
 
@@ -71,11 +71,11 @@ SDs started collaborating and experimenting with new ways of working. They took 
 
 9. Continuous attention to technical excellence and good design enhances agility (get it working 100%, put a lot of attention to details into it, so it is easier later to add on the initial project, makes improvement easier).  
 
-10. Simplicity is essential (keep perspective, and don`t create extra steps in any part of the project where they don`t need to be)! Don`t blow things out of proportions! 
+10. Simplicity is essential (keep perspective, and do not create extra steps in any part of the project where they do not need to be)! Don`t blow things out of proportions! 
 
 11. The best architectures, requirements and designs emerge from self-organizing teams (taking ownership of a particular area of a project where people are super comfortable).  
 
-12. At regular intervals, the team needs to reflect on how to become more effective then tunes and adjusts its behavior accordingly. Self-reflect! 
+12. At regular intervals, the team needs to reflect on how to become more effective than tunes and adjusts its behavior accordingly. Self-reflect! 
 
  
 
