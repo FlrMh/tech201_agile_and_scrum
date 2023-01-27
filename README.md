@@ -5,11 +5,11 @@ Agile and SCRUM notes.
 
  
 
-1. ***Agile***  
+## ***Agile***  
 
  
 
-*Personal Research:* 
+### *Personal Research:* 
 
 **Agile** *methodology* is a project management framework that breaks projects down into several dynamic phases, commonly known as sprints. The Agile framework is an iterative methodology. After every sprint, teams reflect and look back to see if there was anything that could be improved so they can adjust their strategy for the next sprint. 
 
@@ -25,11 +25,12 @@ etc.
 
 *Techniques*: Daily Standup, Sprint Planning meetings, Tem Review (show and tell), Retrospective meetings, End-of-phase retrospective, User stories, The backlog, Team walls (a wall where you keep record of your work). 
 
+![](1_K1_fF3jbDcF09y5T1oa1jA.png)
  
 
  
 
-*Course information:* 
+### *Course information:* 
 
 **Agile** is not one particular tool, practice or method, but a *MINDSET* inspired by the agile manifesto.  
 
@@ -39,7 +40,7 @@ SDs started collaborating and experimenting with new ways of working. They took 
 
  
 
-*Values:*  
+#### *Values:*  
 
 **Individuals & interactions** over processes and tools - It`s more valuable to communicate and discuss with each other and customers, and build strong collaborations, rather than worrying about how we implement or do something.  
 
@@ -49,41 +50,20 @@ SDs started collaborating and experimenting with new ways of working. They took 
 
 **Responding to change** over following a plan – It`s better to create changes rather than following a plan, considering that the technology is constantly evolving. 
 
+![](Agile-Manifesto-values.jpg)
  
 
-*12 Principles:*  
+#### *12 Principles:*  
 
-1. Highest priority = satisfy customers from early and continuous delivery of valuable software 
 
-2. Welcome changing requirements, even late in development.  
-
-3. Deliver working software frequently = from a couple of weeks to a couple of months. 
-
-4. Business people and developers must work together daily throughout the project.  
-
-5. Build projects around motivated individuals = give ppl the environment and support they need, and trust them to get the job done.  
-
-6. The most efficient and effective method of conveying info within a development team = face-to-face conversation.  
-
-7. Working software is the primary measure of progress! 
-
-8. Agile processes promote sustainable development = the sponsors, developers, and users should be able to maintain a constant pace indefinitely.  
-
-9. Continuous attention to technical excellence and good design enhances agility (get it working 100%, put a lot of attention to details into it, so it is easier later to add on the initial project, makes improvement easier).  
-
-10. Simplicity is essential (keep perspective, and do not create extra steps in any part of the project where they do not need to be)! Don`t blow things out of proportions! 
-
-11. The best architectures, requirements and designs emerge from self-organizing teams (taking ownership of a particular area of a project where people are super comfortable).  
-
-12. At regular intervals, the team needs to reflect on how to become more effective than tunes and adjusts its behavior accordingly. Self-reflect! 
+ 
+![](5d9097784c8cc7e9a2e3b6451db937ac.png)
 
  
 
  
 
- 
-
-***SCRUM*** 
+## ***SCRUM*** 
 
  
 
@@ -95,9 +75,9 @@ SDs started collaborating and experimenting with new ways of working. They took 
 
 *Artifacts*  (ways of showcasing where we are in the project) 
 
- 
+ ![](GetImage.png)
 
-*The 3 Pillars of SCRUM:* 
+#### *The 3 Pillars of SCRUM:* 
 
 **Transparency** = everyone presents the facts as is and collectively collaborates for the common organizational objective. Nobody can have a hidden agenda! 
 
@@ -107,7 +87,7 @@ SDs started collaborating and experimenting with new ways of working. They took 
 
  
 
-**SCRUM** *Roles*:  
+#### **SCRUM** *Roles*:  
 
 *Product Owner* = key stakeholder who should have deep understanding of the product and communicates with the team and the other stakeholders (usually, the min user of the product).  
 
@@ -118,17 +98,17 @@ SDs started collaborating and experimenting with new ways of working. They took 
 *Development Team* = effectively 3-9 people; decide how the work will be done; everyone is accountable for the team productivity. 
 
  
-
+![](Blog11-scrum-roles.png)
  
 
- *The **SCRUM** Team:*  
+####  *The **SCRUM** Team:*  
 
-1. Co-located (working together rather than separated)(can not work from different departments, can`t work from far, but need to be in same space at all times to enable effective communication. E.g.: using teams to maintain people from different departments interconnected). 
+1. *Co-located* (working together rather than separated)(can not work from different departments, can`t work from far, but need to be in same space at all times to enable effective communication. E.g.: using teams to maintain people from different departments interconnected). 
 
-2. Engaged with customers.  
+2. *Engaged with customers*  
 
-3. Self-organizing. 
+3. *Self-organizing* 
 
-4. Accountable and empowered. 
+4. *Accountable and empowered* 
 
-5. Cross-functional (everyone should chip in and give help if they know what they`re doing to get the job done, also be interlinked and make sure everything that is being done is inter-linked). 
+5. *Cross-functional* (everyone should chip in and give help if they know what they`re doing to get the job done, also be interlinked and make sure everything that is being done is inter-linked). 
