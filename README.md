@@ -13,11 +13,15 @@ Agile and SCRUM notes.
 
 **Agile** *methodology* is a project management framework that breaks projects down into several dynamic phases, commonly known as sprints. The Agile framework is an iterative methodology. After every sprint, teams reflect and look back to see if there was anything that could be improved so they can adjust their strategy for the next sprint. 
 
-*Methods*:  **SCRUM** (clearly defined roles and responsibilities), **KANBAN** (way of visualizing and improving your current working practices so that work flows through a system quickly), **LEAN**(reduce waste, deliver quick, learn and improve, evidence and data used to make decisions). 
+*Methods*:  
+a. **SCRUM** (clearly defined roles and responsibilities), 
+b. **KANBAN** (way of visualizing and improving your current working practices so that work flows through a system quickly), 
+c. **LEAN**(reduce waste, deliver quick, learn and improve, evidence and data used to make decisions).
+etc.
 
 *Practices*: Pan on multiple levels and prioritize customer collab, cascade power downwards, use time ranges and probability, enable transparency by connecting planning and execution. 
 
-*Frameworks*: Agile SCRUM, Lean and Kanban, SP(Extreme Programming), Crystal, DSDM(Dynamic System Development Method), FDD(Feature Driven Development). 
+*Frameworks*: Agile SCRUM, Lean and Kanban, XP(Extreme Programming), Crystal, DSDM(Dynamic System Development Method), FDD(Feature Driven Development). 
 
 *Techniques*: Daily Standup, Sprint Planning meetings, Tem Review (show and tell), Retrospective meetings, End-of-phase retrospective, User stories, The backlog, Team walls (a wall where you keep record of your work). 
 
